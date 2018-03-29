@@ -1,1 +1,2 @@
-print("Hello from Data Science app")
+def say_hello():
+    return "Hello World from Data Science project"
